@@ -21,11 +21,3 @@ fetch(url, {
   console.error('Error fetching user data:', error.message);
 });
 
-
-
-
-/*
- curl -X GET "http://20.244.56.144/evaluation-service/users" \
-  -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzQ0OTU3NTQ0LCJpYXQiOjE3NDQ5NTcyNDQsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjdhM2YxMTJiLWVjMzYtNDVmNS04NWYyLWJhNzM5ODk0N2YyOSIsInN1YiI6ImF5dXNoLmd1cHRhNF9jczIyQGdsYS5hYy5pbiJ9LCJlbWFpbCI6ImF5dXNoLmd1cHRhNF9jczIyQGdsYS5hYy5pbiIsIm5hbWUiOiJheXVzaCBndXB0YSIsInJvbGxObyI6IjIyMTUwMDA0MzgiLCJhY2Nlc3NDb2RlIjoiQ05uZUdUIiwiY2xpZW50SUQiOiI3YTNmMTEyYi1lYzM2LTQ1ZjUtODVmMi1iYTczOTg5NDdmMjkiLCJjbGllbnRTZWNyZXQiOiJaakdGelpXVFRCYURVcW5uIn0.mCVh_12EDwtr0HpKAhiUcawjWneRiORGvlGuajSMFEY"
-
-*/
